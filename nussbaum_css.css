@@ -1,0 +1,23 @@
+#main > toolbar {
+    background: #005ca9 !important;
+}
+
+#main > navbar > navbar-horizontal-style-1 > div {
+    background: #005ca9 !important;
+}
+
+#main > navbar > navbar-horizontal-style-1 > div > fuse-navigation > div > fuse-nav-horizontal-item > a.active {
+    background: #4472c4 !important;
+}
+
+#settings > nav {
+    background: #005ca9 !important;
+}
+
+#module-form > div.header.accent {
+    background: #005ca9 !important;
+}
+
+#module-form > nav > div.mat-tab-link-container > div > div > a {
+    background: #005ca9 !important;
+}
